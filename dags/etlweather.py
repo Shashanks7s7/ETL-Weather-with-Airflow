@@ -6,6 +6,8 @@ from airflow.utils.dates import days_ago
 import requests
 import json
 
+#api intergration for the etl project 
+
 #Latitude and longitude of desired location
 LATITUDE= '27.7172'
 LONGITUDE='85.3240'
