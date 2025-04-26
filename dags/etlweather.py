@@ -7,6 +7,7 @@ import requests
 import json
 
 #api intergration for the etl project 
+#yes
 
 #Latitude and longitude of desired location
 LATITUDE= '27.7172'
